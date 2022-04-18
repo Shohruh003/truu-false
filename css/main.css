@@ -1,0 +1,27 @@
+.heading {
+  text-align: center;
+}
+.inputDiv {
+  margin-bottom: 20px;
+}
+.inputChek {
+  width: 20px;
+  height: 20px;
+}
+.label {
+  font-size: 24px
+}
+.bigDiv {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.button {
+  padding: 5px;
+  font-size: 20px;
+  margin-left: 150px;
+}
+.output {
+  font-size: 24px;
+  margin-left: 150px;
+}
